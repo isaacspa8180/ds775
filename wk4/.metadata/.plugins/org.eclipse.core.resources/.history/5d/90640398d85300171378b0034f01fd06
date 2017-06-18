@@ -86,7 +86,7 @@ minimize
     sum( r in RoutesWS) CostWS[r] * TransWS[r];
    
 subject to {
-	forall( p in Products , o in Orig[p] ) 
+  forall( p in Products , o in Orig[p] ) 
       ctSupply[p][o]: 
       // this is the same as the supply contraint in transp.mod
 		sum(<o, w> in CPsFW[p])

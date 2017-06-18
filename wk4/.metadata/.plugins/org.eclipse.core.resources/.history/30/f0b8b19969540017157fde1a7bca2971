@@ -11,10 +11,6 @@
 			<ref name="transpStore.dat" type="data">
 			</ref>
 		</config>
-		<config default="false" name="Problem2" category="opl">
-			<ref name="Problem2.mod" type="model">
-			</ref>
-		</config>
 	</configs>
 	
 </project>

@@ -84,9 +84,11 @@ minimize
 // add it here
   sum( r in RoutesFW) CostFW[r] * TransFW[r] +
     sum( r in RoutesWS) CostWS[r] * TransWS[r];
+
+
    
 subject to {
-	forall( p in Products , o in Orig[p] ) 
+  forall( p in Products , o in Orig[p] ) 
       ctSupply[p][o]: 
       // this is the same as the supply contraint in transp.mod
 		sum(<o, w> in CPsFW[p])
@@ -129,7 +131,8 @@ subject to {
       // ensure that the total amount arriving at the warehouse is less than 
       // or equal to MaxStorage 	
    		sum(<p, <w, s>> in RoutesWS)
-      		TransWS[<p, <w, s>>] <= MaxStorage;       	    
+      		TransWS[<p, <w, s>>] <= MaxStorage;       	
+      
 }
 
 execute DISPLAY {  

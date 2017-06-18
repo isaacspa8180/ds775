@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="ASCII"?><project>
 	<version>1.0</version>
 	<configs>
-		<config default="false" name="Problem3" category="opl">
-			<ref name="problem3.mod" type="model">
-			</ref>
-		</config>
-		<config default="true" name="Problem1" category="opl">
+		<config default="false" name="Configuration1" category="opl">
 			<ref name="transpStore.mod" type="model">
 			</ref>
 			<ref name="transpStore.dat" type="data">
 			</ref>
 		</config>
-		<config default="false" name="Problem2" category="opl">
-			<ref name="Problem2.mod" type="model">
+		<config default="false" name="Problem3" category="opl">
+		</config>
+		<config default="true" name="Problem1" category="opl">
+			<ref name="transpStore.mod" type="model">
+			</ref>
+			<ref name="transpStore.dat" type="data">
 			</ref>
 		</config>
 	</configs>
