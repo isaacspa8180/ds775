@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="IloNewOplProjectWizard">
+		<item value="C:\myscripts\school\ds775\wk3" key="IloNewOplProjectWizard.STORE_ROOT_DIRECTORY"/>
+	</section>
+	<section name="OplSearchPage">
+		<item value="0" key="HISTORY_SIZE"/>
+		<item value="false" key="CASE_SENSITIVE"/>
+	</section>
+	<section name="IloNewRunConfigWizard">
+		<item value="false" key="IloNewRunConfigWizard.STORE_SET_AS_DEFAULT"/>
+	</section>
+</section>

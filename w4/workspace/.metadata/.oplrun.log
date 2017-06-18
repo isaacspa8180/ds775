@@ -1,0 +1,558 @@
+!SESSION 2017-06-16 21:15:51.613 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:15:51.614
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 21:16:39.522 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:16:39.523
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 21:17:10.601 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:17:10.602
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:17:10.724
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing failed.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:537)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1198)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 21:17:47.712 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:17:47.714
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:17:47.816
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing failed.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:537)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1198)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 21:19:03.896 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:19:03.897
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 21:19:54.568 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:19:54.569
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:19:54.701
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:19:54.709
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 21:20:17.730 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:20:17.734
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 21:32:44.474 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:32:44.478
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:32:44.553
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:32:44.554
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 21:34:40.934 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:34:40.936
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:34:41.011
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:34:41.013
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 21:35:06.271 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:35:06.272
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:35:06.339
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:35:06.340
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 21:40:41.116 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:40:41.117
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:40:41.380
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-06-16 21:40:41.382
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 21:44:08.659 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 21:44:08.660
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 22:22:44.466 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 22:22:44.470
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 22:22:44.550
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-06-16 22:22:44.550
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 22:39:14.540 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 22:39:14.544
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 22:53:23.704 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 22:53:23.704
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 22:53:23.801
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-06-16 22:53:23.805
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 23:01:38.366 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:01:38.370
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 23:08:58.403 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:08:58.407
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 23:11:51.319 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:11:51.319
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 23:11:51.431
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-06-16 23:11:51.431
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 23:12:08.107 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:12:08.107
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 23:30:19.010 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:30:19.014
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 23:30:19.430
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing failed.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:537)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1198)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 23:31:15.581 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:31:15.581
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 23:36:36.208 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:36:36.208
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-16 23:46:23.388 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:46:23.388
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-06-16 23:46:23.512
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-06-16 23:46:23.516
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:226)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2017-06-16 23:47:07.038 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:47:07.038
+!MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4

@@ -1,0 +1,73 @@
+/*********************************************
+ * OPL 12.6.3.0 Data
+ * Author: jbaggett
+ * Creation Date: Sep 16, 2016 at 8:26:54 PM
+ *********************************************/
+
+ Workers = {
+   KC,
+   DH,
+   HB,
+   SC,
+   KS,
+   NK,
+};
+
+ Days = {
+   M,
+   T,
+   W,
+   R,
+   F,
+}; 
+ 
+ wageRates = #[
+ // wages for each worker, one per row, use the worker:wage format similar to transp4.mod
+   KC:25,
+   DH:26,
+   HB:24,
+   SC:23,
+   KS:28,
+   NK:30,
+]#;
+
+ minHours  = #[
+// min hours for each worker in the form worker:hours
+  KC:8,
+  DH:8,
+  HB:8,
+  SC:8,
+  KS:7,
+  NK:7,
+]#;
+
+ hoursOpen = #[
+// hours open each day ... days:hours
+  M:14,
+  T:14,
+  W:14,
+  R:14,
+  F:14
+]#;
+ 
+ WorkAssigns = {
+ // tuples with <worker,day,available hours>
+  <KC,M,6>,
+  <KC,W,6>,
+  <KC,F,6>,
+  <DH,T,6>,
+  <DH,R,6>,
+  <HB,M,4>,
+  <HB,T,8>,
+  <HB,W,4>,
+  <HB,F,4>,
+  <SC,M,5>,
+  <SC,T,5>,
+  <SC,W,5>,
+  <SC,F,5>,
+  <KS,M,3>,
+  <KS,W,3>,
+  <KS,R,8>,
+  <NK,R,6>,
+  <NK,F,2>,  
+};
