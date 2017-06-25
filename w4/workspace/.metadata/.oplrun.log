@@ -556,3 +556,27 @@ Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds7
 
 !ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 23:47:07.038
 !MESSAGE Run Configuration1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-19 19:14:23.630 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-19 19:14:23.630
+!MESSAGE Run Problem1 in C:/myscripts/school/ds775/wk4/wk4
+!SESSION 2017-06-19 19:25:35.282 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.8.0 IBM J9 2.8 Windows 10 amd64-64 Compressed References 20160719_312156 (JIT enabled, AOT enabled)
+J9VM - R28_Java8_SR3_20160719_1144_B312156
+JIT  - tr.r14.java_20160629_120284.01
+GC   - R28_Java8_SR3_20160719_1144_B312156_CMPRSS
+J9CL - 20160719_312156
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\myscripts\school\ds775\w4\workspace\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-19 19:25:35.298
+!MESSAGE Run Problem3 in C:/myscripts/school/ds775/wk4/wk4
