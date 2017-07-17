@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="12,9-2" category="opl">
+			<ref name="12.9-2.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="12.9-5" category="opl">
+			<ref name="12.9-5.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="12.9-8" category="opl">
+			<ref name="12.9-8.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

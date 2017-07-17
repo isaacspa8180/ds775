@@ -1,0 +1,28 @@
+/*********************************************
+ * OPL 12.7.0.0 Model
+ * Author: paisurfaceguest
+ * Creation Date: Jun 28, 2017 at 10:11:59 PM
+ *********************************************/
+using CP;
+
+range swimmers = 1..5;
+dvar int relay[swimmers];
+range times = 1..5;
+float carl[times] = [37.7, 43.4, 33.3, 29.2, 0];
+float chris[times] = [32.9, 33.1, 28.5, 26.4, 0];
+float david[times] = [33.8, 42.2, 38.9, 29.6, 0];
+float tony[times] = [37.0, 34.7, 30.4, 28.5, 0];
+float ken[times] = [35.4, 41.8, 33.6, 31.1, 0];
+
+minimize carl[relay[1]] +
+         chris[relay[2]] +
+         david[relay[3]] +
+         tony[relay[4]] +
+         ken[relay[5]];
+         
+subject to {
+	//allDifferent(relay);
+	relay[1] + relay[2] + relay[3] + relay[4] + relay[5] == 5;
+
+}         
+
